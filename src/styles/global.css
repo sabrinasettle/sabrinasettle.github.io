@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Minimal baseline improvements */
+
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    @apply bg-white text-neutral-900;
+}
